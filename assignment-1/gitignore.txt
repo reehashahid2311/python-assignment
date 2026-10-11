@@ -1,0 +1,1 @@
+__pycache__/\n*.pyc\nresults.txt\nword_analysis.txt\nbill.txt\norders.txt\n
